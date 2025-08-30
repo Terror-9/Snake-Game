@@ -1,2 +1,2 @@
-# snake-game for Codedex
+# Snake Game 
 PYTHON Final Project
